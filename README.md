@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou DreoRodrigues
 
-<!--
-**DreoRodrigues/DreoRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estudando para me tornar um **programador Full Stack** e apaixonado por tecnologia!  
+Tenho domínio em **JavaScript**, **React** e **Node.js**, sempre buscando aprender mais e criar projetos inovadores.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 💻 Focado em desenvolvimento web moderno
+- 📚 Aprendendo e evoluindo todos os dias
+- 🤝 Aberto para colaborar em projetos interessantes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tecnologias
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+## ✨ Em busca de oportunidades
+Estou à procura de novos desafios e oportunidades para crescer como desenvolvedor Full Stack.
+
+<!-- Adicione seus projetos favoritos aqui -->
+<!-- Adicione suas redes sociais aqui -->
+
+---
+
+_Sinta-se à vontade para entrar em contato ou conferir meus projetos!_
+
